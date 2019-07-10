@@ -26,4 +26,10 @@ d'un système écrit en Java.
 
 * Eclipse with Plug-in Development Environment (PDE)
 
-Version 2019.07.10a
+## Procédures
+
+* Ouvrir Eclipse
+* Dans "File -> Open Projects from File System... -> Directory...", choisir le dossier "crim-squad-jean"
+* Cliquer sur "Select All -> Finish"
+
+Version 2019.07.10b
