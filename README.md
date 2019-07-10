@@ -22,4 +22,8 @@ Implémentation du projet SQUAD de PTIDEJ pour extraire
 
 d'un système écrit en Java.
 
-Version 2019.07.10
+## Configurations
+
+* Eclipse with Plug-in Development Environment (PDE)
+
+Version 2019.07.10a
